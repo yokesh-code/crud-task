@@ -1,0 +1,34 @@
+table{
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+thead,td{
+    border: 1px solid black;
+
+}
+thead{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td{
+    padding: 30px;
+    margin: 24px;
+}
+
+.ac{
+    margin: 5px;
+    background-color: cornflowerblue;
+    border: none;
+}
+
+
+.ac:hover{
+    opacity: 1;
+    background-color: bisque;
+    color: blue;
+    font-weight: bolder;
+}

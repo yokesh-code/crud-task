@@ -1,0 +1,14 @@
+.adduser{
+background-color:cornsilk;
+text-align: center;
+letter-spacing: 1px;
+}
+
+.in1{
+    padding-left: 1rem;
+    margin-left:1rem ;
+}
+
+.btn:hover{
+ opacity: 1;
+}

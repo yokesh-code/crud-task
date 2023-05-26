@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+}
+form{
+    background-color:cornsilk;
+    margin: 2.5rem;
+    padding: 1.5rem;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.in1{
+    padding-left: 1rem;
+    margin-left:1rem ;
+}
+button{
+    margin: 5px;
+    background-color:cornflowerblue;
+    border: none;
+}
+button:hover{
+
+    opacity: 1;
+    background-color: rgb(56, 94, 164);
+    color:cornsilk;
+    font-weight: bolder;
+
+}
